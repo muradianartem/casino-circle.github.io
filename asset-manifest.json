@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/casino-circle/static/css/main.c9740132.css",
+    "main.js": "/casino-circle/static/js/main.94402200.js",
+    "static/js/787.88842ba5.chunk.js": "/casino-circle/static/js/787.88842ba5.chunk.js",
+    "static/media/wheel-holder-girl.png": "/casino-circle/static/media/wheel-holder-girl.e25c0d4dc0cba6d428f8.png",
+    "static/media/background-new.jpg": "/casino-circle/static/media/background-new.023c969e2d7b59053ee1.jpg",
+    "static/media/Roboto-Medium.ttf": "/casino-circle/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/Roboto-Regular.ttf": "/casino-circle/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/Roboto-Bold.ttf": "/casino-circle/static/media/Roboto-Bold.f80816a5455d171f948d.ttf",
+    "static/media/new-man.png": "/casino-circle/static/media/new-man.b7474458803105aed22d.png",
+    "static/media/wheel-girl-new.png": "/casino-circle/static/media/wheel-girl-new.76cbc99e15afccb40fa2.png",
+    "static/media/background-mobile-new.jpg": "/casino-circle/static/media/background-mobile-new.9d748853f5bb925a0d7a.jpg",
+    "static/media/bonus-new.png": "/casino-circle/static/media/bonus-new.d6b890ea058f01e32db1.png",
+    "static/media/wheel-win-frame-girl.png": "/casino-circle/static/media/wheel-win-frame-girl.1efc371324658f1551a9.png",
+    "static/media/box.png": "/casino-circle/static/media/box.ac0512c87d1de90314b9.png",
+    "static/media/new-man-mobile.png": "/casino-circle/static/media/new-man-mobile.6a8d664f161ff753292e.png",
+    "static/media/box-mobile.png": "/casino-circle/static/media/box-mobile.5c60b1d24ae37dcc2355.png",
+    "static/media/elements.png": "/casino-circle/static/media/elements.b0f321eec90ab2724a2e.png",
+    "index.html": "/casino-circle/index.html",
+    "main.c9740132.css.map": "/casino-circle/static/css/main.c9740132.css.map",
+    "main.94402200.js.map": "/casino-circle/static/js/main.94402200.js.map",
+    "787.88842ba5.chunk.js.map": "/casino-circle/static/js/787.88842ba5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9740132.css",
+    "static/js/main.94402200.js"
+  ]
+}
